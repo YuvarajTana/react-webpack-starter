@@ -1,1 +1,1 @@
-# React starter kit to getr start working with Babel, ES6 and Webpack
+# React starter kit to get start working with Babel, ES6 and Webpack
